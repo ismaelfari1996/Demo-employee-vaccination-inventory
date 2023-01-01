@@ -6,7 +6,7 @@ package com.af.example.Demoemployeevaccinationinventory.utility;
 
 /**
  *
- * @author Ismael
+ * @author Ing. Ismael Farinango 2022
  */
 public class IdentityCardValidator {
     
